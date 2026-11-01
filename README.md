@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Collins Gabriel Monday 👋
 
-<!--
-**collinsgabrielmonday-art/collinsgabrielmonday-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Mowe, Redemption City, Ogun State, Nigeria**
+🚀 Aspiring Developer | Building My Future in Code
+📦 Currently learning Git & GitHub
 
-Here are some ideas to get you started:
+### 🛠️ What I'm Learning
+- HTML / CSS
+- JavaScript
+- Git & GitHub
+- Python (coming soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 My First Repo
+This is my special profile repository `collinsgabrielmonday-art`
+My journey from 0 repos to building real projects!
+
+### 📫 Connect With Me
+- Email: collinsgabrielmonday@gmail.com
+- Location: Block 6A, Jerusalem, Redemption City
+
+### ⚡ Fun Fact
+Size 46 shoe guy who codes in style! From ordering KASH pants on Temu to pushing code on GitHub.
+
+### 🎯 Goals for 2026
+- [ ] Build my first portfolio website
+- [ ] Learn JavaScript properly
+- [ ] Create 10 repositories
+- [ ] Collaborate with other developers
+
+---
+⭐ _"From zero repos to hero repos — journey starts now!"_
+
+![Visitor Count](https://komarev.com/ghpvc/?username=collinsgabrielmonday-art&color=blue&style=flat)
